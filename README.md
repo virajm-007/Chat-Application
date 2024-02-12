@@ -39,5 +39,4 @@ This is a simple chat application developed in Java, utilizing socket programmin
   ```bash
    java ClientEnd
 
-
-Connect multiple clients to observe real-time chat interactions.
+7. Connect multiple clients to observe real-time chat interactions.
