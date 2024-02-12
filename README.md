@@ -8,6 +8,15 @@ This is a simple chat application developed in Java, utilizing socket programmin
 
 - **Real-time Communication:** Clients can send and receive messages in real-time through the server, facilitating instant communication.
 
+## Server and Client
+
+![Server](https://github.com/virajm-007/Chat-Application/blob/main/ss/Server.png)
+
+Description of the server image...
+
+![Client](https://github.com/virajm-007/Chat-Application/blob/main/ss/Client.png)
+
+Description of the client image...
 
 ## Getting Started
 
