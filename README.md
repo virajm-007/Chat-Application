@@ -32,7 +32,7 @@ This is a simple chat application developed in Java, utilizing socket programmin
     javac ClientEnd.java
 
 4. Run the server:
-   ```bash
+      ```bash
     java ServerEnd
 
 6. Run the client(s) in separate terminal windows:
