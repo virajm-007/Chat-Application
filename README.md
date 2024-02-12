@@ -23,16 +23,20 @@ This is a simple chat application developed in Java, utilizing socket programmin
    git clone https://github.com/your-username/your-chat-app.git
    
 2. Navigate to the project directory:
+     ```bash
     cd your-chat-app
 
 3. Compile the server and client Java files:
+      ```bash
     javac ServerEnd.java
     javac ClientEnd.java
 
 4. Run the server:
+   ```bash
     java ServerEnd
 
-5. Run the client(s) in separate terminal windows:
-    java ClientEnd
+6. Run the client(s) in separate terminal windows:
+  ```bash
+   java ClientEnd
    
 Connect multiple clients to observe real-time chat interactions.
