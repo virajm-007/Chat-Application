@@ -38,5 +38,6 @@ This is a simple chat application developed in Java, utilizing socket programmin
 6. Run the client(s) in separate terminal windows:
   ```bash
    java ClientEnd
-   
+
+
 Connect multiple clients to observe real-time chat interactions.
